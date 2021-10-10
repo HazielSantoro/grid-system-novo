@@ -1,0 +1,205 @@
+.v-card{
+    margin: 2px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+.category-button{
+    width: 143px;
+    height: 80px;
+}
+
+.v-btn--block{
+    flex: 1 0 auto;
+    display: flex;
+    min-width: 100%;
+}
+
+.v-btn--contained{
+    box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+
+.v-btn--router{
+    height: 60px;
+    margin: 0!important;
+    padding: 0!important;
+    font-size: 18px!important;
+    color: #000;
+    text-transform: uppercase;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+#myFooter .fa{
+    font-size: 36px;
+    margin-right: 15px;
+    margin-left: 20px;
+    background-color: #212529;
+    color: #212529;
+    border-radius: 51%;
+    padding: 10px;
+    text-align: center;
+    line-height: 43px;
+    text-decoration: none;
+    transition:color 0.2s;
+    color: rgb(0, 0, 0);
+    width:100%;
+    height:100px;
+}
+
+#myFooter .footer-copyright{
+    margin-bottom: 35px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#myFooter .footer-copyright{
+    margin-bottom: 35px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.content{
+    flex: 1 0 auto;
+    -webkit-flex: 1 0 auto;
+    min-height: 200px;
+ }
+
+ #myFooter .footer-social{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #212529;
+}
+
+#myFooter .container{
+    text-align: center;
+}
+
+#myFooter ul{
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 18px;
+}
+
+.productName{
+    height: 60px;
+    margin: 0!important;
+    padding: 5px!important;
+    font-size: 18px!important;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.v-application--is-ltr .v-responsive__sizer~.v-responsive__content {
+    margin-left: -100%;
+}
+
+.v-application .justify-start {
+    justify-content: flex-start;
+}
+
+.v-responsive{
+    position: relative;
+    overflow: hidden;
+    flex: 1 0 auto;
+    max-width: 100%;
+    display: flex;
+}
+
+.v-image{
+    z-index: 0;
+}
+
+.v-btn__content {
+    align-items: center;
+    color: inherit;
+    display: flex;
+    flex: 1 0 auto;
+    justify-content: inherit;
+    line-height: normal;
+    position: relative;
+}
+
+.v-btn.v-size--x-large {
+    font-size: 1rem;
+}
+
+.v-application .white--text {
+    color: #fff;
+    caret-color: #fff;
+}
+
+.v-btn--tile {
+    border-radius: 0;
+}
+
+.v-application a {
+    cursor: pointer;
+}
+
+.v-btn {
+    align-items: center;
+    border-radius: 4px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    font-weight: 500;
+    letter-spacing: .0892857143em;
+    justify-content: center;
+    background-color: #212529;
+    color: #fff;
+    outline: 0;
+    position: relative;
+    text-decoration: none;
+    text-indent: .0892857143em;
+    text-transform: uppercase;
+    transition-duration: .28s;
+    transition-property: box-shadow,transform,opacity;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.d-btn {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    font-weight: 500;
+    letter-spacing: .0892857143em;
+    justify-content: center;
+    outline: 0;
+    position: relative;
+    text-decoration: none;
+    text-indent: .0892857143em;
+    text-transform: uppercase;
+    transition-duration: .28s;
+    transition-property: box-shadow,transform,opacity;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.img-card{
+    height: 300px;
+}
+
+.fundo{
+    background-color: #888688;
+
+}
